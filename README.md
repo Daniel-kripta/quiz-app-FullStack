@@ -1,6 +1,6 @@
 # Quiz FullStack
 
-App interactiva para repasar los exámenes del curso Full Stack. Carga los archivos `.md` del repositorio directamente — sin duplicar contenido — y ofrece dos modos de estudio con persistencia local y corrección opcional por IA.
+App interactiva para los exámenes de repaso del curso Full Stack. Carga los archivos `.md` del repositorio directamente — sin duplicar contenido — y ofrece dos modos de estudio con persistencia local y corrección opcional por IA.
 
 ---
 
